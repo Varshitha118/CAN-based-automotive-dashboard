@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/chitr/MPLABXProjects/MC_Project_ECU2.X/ecu2_sensor.c</file>
+            <file>file:/C:/Users/chitr/MPLABXProjects/MC_Project_ECU2.X/matrix_keypad.c</file>
+            <file>file:/C:/Users/chitr/MPLABXProjects/MC_Project_ECU2.X/can.h</file>
+            <file>file:/C:/Users/chitr/MPLABXProjects/MC_Project_ECU2.X/matrix_keypad.h</file>
+            <file>file:/C:/Users/chitr/MPLABXProjects/MC_Project_ECU2.X/adc.h</file>
+            <file>file:/C:/Users/chitr/MPLABXProjects/MC_Project_ECU2.X/adc.c</file>
+            <file>file:/C:/Users/chitr/MPLABXProjects/MC_Project_ECU2.X/msg_id.h</file>
+            <file>file:/C:/Users/chitr/MPLABXProjects/MC_Project_ECU2.X/ecu2_main.c</file>
+            <file>file:/C:/Users/chitr/MPLABXProjects/MC_Project_ECU2.X/ecu2_sensor.h</file>
+            <file>file:/C:/Users/chitr/MPLABXProjects/MC_Project_ECU2.X/can.c</file>
+        </group>
+        <group name="car black box">
+            <file>file:/C:/Users/jevin/MPLABXProjects/car%20black%20box/MC_Project_ECU2.X/can.c</file>
+            <file>file:/C:/Users/jevin/MPLABXProjects/car%20black%20box/MC_Project_ECU2.X/ecu2_main.c</file>
+        </group>
+    </open-files>
+</project-private>
